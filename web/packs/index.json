@@ -1,0 +1,10 @@
+{
+  "packs": [
+    "monerostickers.json",
+    "StacyStack.json",
+    "localbitcoins.json",
+    "frogmito.json",
+    "bitcoin_pack.json"
+  ],
+  "homeserver_url": "https://matrix.cypherstack.com"
+}
