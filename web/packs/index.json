@@ -4,7 +4,8 @@
     "StacyStack.json",
     "localbitcoins.json",
     "frogmito.json",
-    "bitcoin_pack.json"
+    "bitcoin_pack.json",
+    "ApuApustajaFren.json"
   ],
   "homeserver_url": "https://matrix.cypherstack.com"
 }
